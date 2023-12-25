@@ -15,6 +15,7 @@ Available pages and sections include:
 - Offices
 - Projects
 - Contact
+- badget
 
 ## Table of Contents (Optional)
 
